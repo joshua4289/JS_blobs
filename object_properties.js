@@ -16,4 +16,6 @@
 
   Object.defineProperty(person,"age",{enumerable:false});
   JSON.stringify(person);
+  // this will still show
+  display(person.age);
   
