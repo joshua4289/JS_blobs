@@ -12,4 +12,5 @@ console.log(id,style);
 
 // note we are putting the brakets over the whole 
 // expression 
-// the brackets are ONLY when destructuring objects 
+// the brackets 
+//ONLY when destructuring objects 
